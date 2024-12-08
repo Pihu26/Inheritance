@@ -7,7 +7,6 @@ This is a Solidity smart contract for managing inheritance within a blockchain e
 - **Ownership Transfer:** After 30 days of the owner's inactivity, ownership will automatically transfer to the heir.
 - **Heir Management:** Heir can be assigned and changed during the contract's lifecycle.
 - **Withdrawals:** The owner can withdraw funds from the contract, resetting the inactivity timer.
-- **Customizable Inactivity Period:** The period after which ownership transfers can be adjusted to suit your use case.
 
 ## Requirements
 
